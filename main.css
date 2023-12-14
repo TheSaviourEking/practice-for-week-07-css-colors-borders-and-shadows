@@ -10,11 +10,13 @@
 }
 
 .text1 {
-  background-color: blue;
+    background-color: blue;
+    color: #ffc300;
 }
 
 .text2 {
-  background-color: burlywood;
+    background-color: burlywood;
+    color: rgb(235, 62, 71);
 }
 
 .box3 {
